@@ -1,0 +1,58 @@
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [6, 4, 7, 6, 8, 6, 2, 6, 3, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 7, 6, 8, 6, 2, 6, 3, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 7, 8, 6, 2, 6, 3, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 7, 6, 8, 2, 6, 3, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 7, 6, 2, 8, 6, 3, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 7, 6, 2, 6, 8, 3, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 7, 6, 2, 6, 3, 8, 0]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 7, 6, 2, 6, 3, 0, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 6, 7, 2, 6, 3, 0, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 6, 2, 7, 6, 3, 0, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 6, 2, 6, 7, 3, 0, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 6, 2, 6, 3, 7, 0, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 6, 2, 6, 3, 0, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 2, 6, 6, 3, 0, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 2, 6, 3, 6, 0, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 6, 2, 6, 3, 0, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 2, 6, 6, 3, 0, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 2, 6, 3, 6, 0, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 6, 2, 6, 3, 0, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 2, 6, 6, 3, 0, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 2, 6, 3, 6, 0, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [4, 2, 6, 3, 0, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [2, 4, 6, 3, 0, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [2, 4, 3, 6, 0, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [2, 4, 3, 0, 6, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [2, 3, 4, 0, 6, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [2, 3, 0, 4, 6, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [2, 0, 3, 4, 6, 6, 6, 6, 7, 8]
+дек. 14, 2022 4:18:47 PM Task_2.Task_2 bubble_sort
+INFO: [0, 2, 3, 4, 6, 6, 6, 6, 7, 8]
