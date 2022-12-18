@@ -14,6 +14,9 @@ public class Task_3 {
         double d_number = 0.0;
         boolean flag = true;
 
+        // back - отмена операции
+        // exit - выход
+        
         while (flag) {
             if (isNumeric(String.valueOf(out_print))) {
                 System.out.print("Please enter operation: ");
