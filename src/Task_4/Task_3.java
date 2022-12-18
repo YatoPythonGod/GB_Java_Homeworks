@@ -23,12 +23,16 @@ public class Task_3 {
                     continue;
                 } else if (pre_operation.equals("back")) {
                     out_print.setLength(0);
-                    out_print.append(back_number);
-                    System.out.println(out_print);
-                    if (result != 0.0) result = back_number;
-                    queue.clear();
-                    queue.add(back_number);
-                    continue;
+                    if (back_number != 0) {
+                        out_print.append(back_number);
+                        System.out.println(out_print);
+                        if (result != 0.0) result = back_number;
+                        queue.clear();
+                        queue.add(back_number);
+                        continue;}
+                    else {
+                        queue.clear();
+                        continue;}
 
                 } else {
                     operation = pre_operation;
@@ -46,6 +50,9 @@ public class Task_3 {
                 out_print.setLength(0);
                 if (result != 0.0) {
                     out_print.append(result);
+                }
+                else if (queue.size() == 1 && result == 0.0){
+                    out_print.append(queue.peek());
                 }
                 System.out.println(out_print);
                 continue;
